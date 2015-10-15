@@ -7,3 +7,12 @@ Bullet points:
 - EventBus for synchronization tasks
 - Dependency Injection by using Butterknife
 - Other utilities
+
+# Main Menu
+![](https://github.com/dcf82/EnvoyGameRater/blob/master/main.png)
+
+# Add new games
+![](https://github.com/dcf82/EnvoyGameRater/blob/master/adding.png)
+
+# Rate games
+![](https://github.com/dcf82/EnvoyGameRater/blob/master/rating.png)
