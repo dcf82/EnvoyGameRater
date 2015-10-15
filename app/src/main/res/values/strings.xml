@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EnvoyGame</string>
+
+    <string name="action_exit">Exit</string>
+    <string name="action_add">Add</string>
+    <string name="action_save">Save</string>
+
+    <string name="no_games">Please add a new game</string>
+
+    <string name="title_activity_home_games">Home</string>
+    <string name="title_activity_list_games">My Games</string>
+    <string name="title_fragment_add_game">Add a New Game</string>
+    <string name="title_activity_rate_games">Rate Your Games</string>
+    <string name="list_games">List Games</string>
+
+    <string name="write_game_name">Write the game\'s name</string>
+    <string name="write_console_name">Write the console name</string>
+
+    <string name="rate_app">Rate The Game</string>
+    <string name="title_activity_dummy">Dummy</string>
+
+    <string name="select_photo">Click to Select a photo</string>
+</resources>

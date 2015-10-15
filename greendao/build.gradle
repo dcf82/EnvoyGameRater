@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+dependencies {
+    // Local Libraries
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    // ORM DAO Generator
+    compile 'de.greenrobot:greendao-generator:2.0.0'
+}
