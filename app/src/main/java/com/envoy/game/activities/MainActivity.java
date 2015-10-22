@@ -2,7 +2,6 @@ package com.envoy.game.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
@@ -15,7 +14,7 @@ import butterknife.OnClick;
  * @author David Castillo Fuentes <dcf82@hotmail.com>
  * Home screen
  */
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
